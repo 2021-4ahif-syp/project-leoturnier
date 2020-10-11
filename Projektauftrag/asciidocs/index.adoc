@@ -20,6 +20,8 @@ LeoTurnier
 The project is created for the HTBLA-Leonding.
 
 === Project background
+"LeoTurnier" is a tournament management program that manages different types of tournaments
+(e.g. individual tournament, team tournament), as well as different types of game systems (KO system, group system).
+At the moment the whole tournament planning is still done manually.
 
-
-
+=== Project goal
