@@ -1,6 +1,6 @@
 = Project Proposal - LeoTurnier
-Lorenz Gahleitner
-1.0.0, 2020-10-06: Some notes
+Lorenz Gahleitner, Jonas Birklbauer, Nico Bojer, Tarik Hosic
+1.0.1, 2020-10-11: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -26,15 +26,22 @@ Bojer Nico +
 Hosic Tarik
 
 === Project Background
-"LeoTurnier" is a tournament management program that manages different types of tournaments
-(e.g. individual tournament, team tournament), as well as different types of game systems
-(KO system, group system).
-At the moment the whole tournament planning is still done manually.
+At the moment, the entire planning of the tournament is still done manually,
+and it is very tedious to follow and register. It is done with a written
+entry on a board, and you can only follow the progress by watching.
+"LeoTurnier" should change exactly that.
+
 
 === Project Goals
+The main goal of this project was to simplify the tournament
+administration and make the tournament process of all
+tournaments more public and accessible.
+
+=== Project Functions
 * Keep track of already played matches.
+* Compatible for various sports
 * Organise upcoming matches
-* Display the next upcoming match
+* Display the tournament progress
 * Export to .csv and .pdf files
 * Notifications via e-mail
 * Save all data in a database
@@ -46,3 +53,13 @@ notifying them. Scores will be manually added, automatically displayed and in a 
 Additionally, a list of either the upcoming or already played matches can
 be exported into a .csv or .pdf file.
 
+=== Stakeholder
+Participants of the tournament, organizers and spectators.
+
+=== Project Result
+"LeoTurnier" is a tournament management program that manages different types of tournaments
+(e.g. individual tournament, team tournament), as well as different types of game systems
+(KO system, group system).
+
+=== Project Start
+The project was started on 5th October 2020.
