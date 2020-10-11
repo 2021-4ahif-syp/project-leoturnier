@@ -1,5 +1,5 @@
 = Project Proposal - LeoTurnier
-Nico Bojer
+Lorenz Gahleitner
 1.0.0, 2020-10-06: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
