@@ -34,5 +34,13 @@ At the moment the whole tournament planning is still done manually.
 * Keep track of already played matches.
 * Organise upcoming matches
 * Display the next upcoming match
+* Export to .csv and .pdf files
+* Notifications via e-mail
 * Save all data in a database
+
+=== Description
+The software helps to organise tournaments. It creates a leaderboard which will display past matches and upcoming ones.
+Once a game is about to start an e-mail will be send to the organiser, notifying them. Scores will be manually added,
+updating the displayed leaderboard and storing the data in a database. Additionally a list of either the upcoming
+or already played matches can be exported into a .csv or .pdf file.
 
