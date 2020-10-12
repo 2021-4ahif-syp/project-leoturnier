@@ -20,10 +20,22 @@ LeoTurnier
 The project is created for the HTBLA-Leonding.
 
 === Project Team
-Gahleitner Lorenz (Project leader) +
-Birklbauer Jonas +
-Bojer Nico +
-Hosic Tarik
+
+|===
+|Member |Position
+
+|Gahleitner Lorenz
+|Project leader
+
+|Birklbauer Jonas
+|Project member
+
+|Bojer Nico
+|Project member
+
+|Hosic Tarik
+|Project member
+|===
 
 === Project Background
 At the moment, the entire planning of the tournament is still done manually,
