@@ -53,6 +53,17 @@ notifying them. Scores will be manually added, automatically displayed and in a 
 Additionally, a list of either the upcoming or already played matches can
 be exported into a .csv or .pdf file.
 
+=== Milestones
+* Code basis of the existing project was taken over and works
+* Models fit all tournament modes
+* Completeness of the tournament models were checked
+* Web interface is implemented
+* API for the web interface was created
+* Integration of the user interface and API was carried out
+* Integration test was carried out
+* Deployment was carried out
+* Application was installed and tested
+
 === Stakeholder
 Participants of the tournament, organizers and spectators.
 
@@ -60,6 +71,15 @@ Participants of the tournament, organizers and spectators.
 "LeoTurnier" is a tournament management program that manages different types of tournaments
 (e.g. individual tournament, team tournament), as well as different types of game systems
 (KO system, group system).
+
+=== Project risks
+* System architecture, technologies and functional scope not known
+* Change javafx to webclient
+* Infrastructure and required items not specified
+* Complex model for tournament and evaluation may need to be built
+* User group not computer savvy
+* (Status) Workflow for a tournament not yet clarified/known (group and KO model)
+* Rare tournament mode cannot be displayed
 
 === Project Start
 The project was started on 5th October 2020.
