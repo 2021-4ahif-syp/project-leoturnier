@@ -38,7 +38,7 @@ administration and make the tournament process of all
 tournaments more public and accessible.
 
 === Project Functions
-* Keep track of already played matches.
+* Keep track of already played matches
 * Compatible for various sports
 * Organise upcoming matches
 * Display the tournament progress
