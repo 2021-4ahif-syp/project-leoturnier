@@ -88,9 +88,9 @@ Participants of the tournament, organizers and spectators.
 * System architecture, technologies and functional scope not known
 * Change javafx to webclient
 * Infrastructure and required items not specified
-* Complex model for tournament and evaluation may need to be built
+* Complex model for a tournament and evaluation may need to be built
 * User group not computer savvy
-* (Status) Workflow for a tournament not yet clarified/known (group and KO model)
+* Workflow for a tournament not yet clarified/known (group and KO model)
 * Rare tournament mode cannot be displayed
 
 === Project Start
